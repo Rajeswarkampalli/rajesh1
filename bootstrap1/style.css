@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 200%; width: 200%;
+    justify-content: center;
+    background-image: url("https://media.istockphoto.com/id/587183946/photo/little-macrocosm-inside-a-transparent-ball.jpg?s=612x612&w=0&k=20&c=vtG8Fb4ZxtOgZHiQf5F6TPcbZbk2eSo3HEGV8XfaSxfI=");
+    display:flexbox;
+}
+h1{
+    font-style:;
+}

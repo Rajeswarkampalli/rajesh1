@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://www.woodenearth.com/cdn/shop/articles/toys-from-oak_1024x1024.png?v=1688291862);
+    background-repeat: no-repeat;
+    display: flex;
+    justify-self:center
+}
